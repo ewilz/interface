@@ -147,7 +147,7 @@ export const ListingSection = ({
                         color="red400"
                         height="32"
                         cursor="pointer"
-                        style={{ backgroundColor: '#FA2B391A' }}
+                        style={{ backgroundColor: '#FFEF601A' }}
                         onClick={async (e) => {
                           e.stopPropagation()
                           removeRow(row)
